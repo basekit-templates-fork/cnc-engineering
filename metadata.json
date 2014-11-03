@@ -1,7 +1,7 @@
 {
-    "name":"SummerBlue",
-    "thumbnail":"summerblue.png",
-    "screenshot":"summerblue.png",
+    "name":"CNC Engineering",
+    "thumbnail":"cnc-engineering.png",
+    "screenshot":"cnc-engineering.png",
     "templateType":"standard",
     "pageTypes": ["home"],
     "tags": {
@@ -14,20 +14,20 @@
         "Swatch 1": {
             "color1":"#ffffff",
             "color2":"#f5f2ed",
+            "color3":"#3c574a",
+            "color4":"#101d37",
+            "color5":"#646363",
+            "color6":"#feeb67",
+            "color7":"#3c574a"
+        },
+        "Swatch 2": {
+            "color1":"#ffffff",
+            "color2":"#f5f2ed",
             "color3":"#2b4c91",
             "color4":"#101d37",
             "color5":"#646363",
             "color6":"#feeb67",
             "color7":"#2b4c91"
-        },
-        "Swatch 2": {
-            "color1":"#ffffff",
-            "color2":"#ECF8F6",
-            "color3":"#7373BB",
-            "color4":"#484877",
-            "color5":"#646363",
-            "color6":"#ECF8F6",
-            "color7":"#484877"
         },
         "Swatch 3": {
             "color1":"#ffffff",
@@ -58,9 +58,9 @@
         }
     },
     "fontSwatch": {
-       "title": "Lato",
+       "title": "Oswald / Open Sans",
         "font1": {
-            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-family": "\"Oswald\", Arial, sans-serif",
             "font-size": "28px",
             "font-weight": "400",
             "line-height": "42px",
@@ -68,7 +68,7 @@
             "letter-spacing": "inherit"
         },
         "font2": {
-            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-family": "\"Oswald\", Arial, sans-serif",
             "font-size": "24px",
             "font-weight": "inherit",
             "line-height": "38px",
@@ -76,7 +76,7 @@
             "letter-spacing": "inherit"
         },
         "font3": {
-            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-family": "\"Oswald\", Arial, sans-serif",
             "font-size": "18px",
             "font-weight": "400",
             "line-height": "30px",
@@ -84,7 +84,7 @@
             "letter-spacing": "inherit"
         },
         "font4": {
-            "font-family": "\"Merriweather\", Georgia, serif",
+            "font-family": "\"Open Sans\", Helvetica, Verdana, sans-serif",
             "font-size": "13px",
             "font-weight": "400",
             "line-height": "25px",
@@ -92,7 +92,7 @@
             "letter-spacing": "inherit"
         },
         "font5": {
-            "font-family": "\"Merriweather\", Georgia, serif",
+            "font-family": "\"Open Sans\", Helvetica, Verdana, sans-serif",
             "font-size": "13px",
             "font-weight": "400",
             "line-height": "25px",
@@ -100,7 +100,7 @@
             "letter-spacing": "inherit"
         },
         "font6": {
-            "font-family": "\"Merriweather\", Georgia, serif",
+            "font-family": "\"Open Sans\", Helvetica, Verdana, sans-serif",
             "font-size": "18px",
             "font-weight": "400",
             "line-height": "30px",
@@ -111,7 +111,7 @@
             "background-color-hover": "transparent"
         },
         "font7": {
-            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-family": "\"Open Sans\", Helvetica, Verdana, sans-serif",
             "font-size": "14px",
             "font-weight": "400",
             "line-height": "26px",
@@ -121,15 +121,15 @@
             "background-color-hover": "darken(@color-swatch3,8%)"
         },
         "font8": {
-            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
-            "font-size": "24px",
+            "font-family": "\"Oswald\", Arial, sans-serif",
+            "font-size": "28px",
             "font-weight": "400",
-            "line-height": "36px",
+            "line-height": "40px",
             "color": "@color-swatch6",
             "letter-spacing": "inherit"
         },
         "font9": {
-            "font-family": "\"Merriweather\", Georgia, serif",
+            "font-family": "\"Open Sans\", Helvetica, Verdana, sans-serif",
             "font-size": "14px",
             "font-weight": "400",
             "line-height": "28px",
@@ -137,9 +137,9 @@
             "letter-spacing": "inherit"
         },
         "font10": {
-            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-family": "\"Oswald\", Arial, sans-serif",
             "font-size": "30px",
-            "font-weight": "400",
+            "font-weight": "700",
             "line-height": "40px",
             "color": "@color-swatch4",
             "letter-spacing": "inherit"
