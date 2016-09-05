@@ -1,7 +1,7 @@
 {
     "name":"CNC Engineering",
     "thumbnail":"cnc-engineering.png",
-    "screenshot":"cnc-engineering.png",
+    "screenshot":"cnc-engineering-screenshot.jpg",
     "templateType":"standard",
     "pageTypes": ["home"],
     "tags": {
